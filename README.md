@@ -1,4 +1,4 @@
-![Image of me](profpic2.jpg)
+![Image of me](profpic2.jpg = 250x250)
 
 ## M. Nurhakim says Hi!👋
 # Third year student in Software Engineering, BCS at UM
