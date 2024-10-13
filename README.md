@@ -1,4 +1,4 @@
-<img src="profpic2.jpg" width="400" height="300" align="center"/>
+<img src="profpic2.jpg" width="300" height="400" />
 
 ## M. Nurhakim says Hi!👋
 # Third year student in Software Engineering, BCS at UM
