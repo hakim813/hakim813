@@ -1,4 +1,4 @@
-![Image of me](profpic2.jpg = 250x250)
+<img src="profpic2.jpg" width="100" height="100"/>
 
 ## M. Nurhakim says Hi!👋
 # Third year student in Software Engineering, BCS at UM
